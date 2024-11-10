@@ -4,8 +4,8 @@
 ![Badge Complete](http://img.shields.io/static/v1?label=STATUS&message=COMPLETE&color=GREEN&style=for-the-badge)
 
 
-# C - Tic Tac Toe
-This project is a tic-tac-toe game made in C that uses a simple strategy to always try to beat the player.
+# C | C++ - Tic Tac Toe
+This project is a tic-tac-toe game made in C or C++ that uses a simple strategy to always try to beat the player.
 
 ## What is Tic-Tac-Toe?
 
