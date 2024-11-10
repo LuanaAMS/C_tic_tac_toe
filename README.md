@@ -24,7 +24,7 @@ The computer uses a simple strategy that consists of:
 ## Requirements:
 
 - IDE that supports C programs such as "Clion", "Eclipse", "NetBeans", "Código Lite" or "Visual Studio Code" with its extensions
-- Libraries "Windows.h" and "unistd.h"
+- Libraries "Windows.h", "stdbool.h" and "unistd.h"
 
 ## How to play:
 
