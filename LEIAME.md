@@ -26,7 +26,7 @@ A máquina usa uma estratégia simples que consiste em:
 ## Requisitos:
 
 - Qualquer IDE que suporta a linguagem C, como "Clion", "Eclipse", "NetBeans", "Código Lite" ou "Visual Studio Code" com suas extensões
-- Bibliotecas "Windows.h" e "unistd.h"
+- Bibliotecas "Windows.h", "stdbool.h" e "unistd.h"
 
 ## Como jogar:
 
