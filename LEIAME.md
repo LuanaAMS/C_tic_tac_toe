@@ -4,8 +4,8 @@
 ![Badge Complete](http://img.shields.io/static/v1?label=STATUS&message=COMPLETE&color=GREEN&style=for-the-badge)
 
 
-# C - Tic Tac Toe (Jogo da Velha)
-Este projeto é um tic tac toe (Jogo da Velha) feito em C que usa uma estratégia simples para sempre tentar vencer o jogador.
+# C | C++ - Tic Tac Toe (Jogo da Velha)
+Este projeto é um tic tac toe (Jogo da Velha) feito em C ou C++ que usa uma estratégia simples para sempre tentar vencer o jogador.
 
 ## O que é um TIC TAC TOE (Jogo da Velha)?
 
